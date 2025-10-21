@@ -1,0 +1,48 @@
+ AULA 1
+mkdir (nome) = criar pasta
+
+cd (nome da pasta) = entrar na pasta
+
+git init = inicia um repositorio git
+
+git clone (http do repositorio do github) = clona o repo re
+do github
+
+git remote add origin (http do repo do github) = conecta ao repo
+do github
+ 
+AULA 2 
+touch (nome).(tipo de arquivo) = cria um arquivo
+
+git status = mostra os estatos da pasta git
+
+git commit -m (mensagem) = deixa uma mensagem no arquivo e 
+envia a alteração
+
+git log = mostra quem fez alteraçoes nos arquivos git
+
+rm -rf (nome do arquivo) = apaga o arquivo
+
+rm -rf .git = apaga o repositorio git
+
+AULA 3
+git commit --amend -m (mensagem) = substitui a mensagem do
+ultimo log pra uma nova
+
+git commit --amend = mesma coisa so q manual
+
+git reset --(soft, mixed ou hard) (hash) = desfaz o log (prefiro usar soft)
+
+AULA 4
+
+git branch -M main = nomeia o branch pra main 
+
+git push -u origin main = adiciona tudo no repo do github 
+
+git pull = pega oque esta no repositorio do github e tras para a maquina
+
+AULA DAS BRANCHS
+
+
+
+

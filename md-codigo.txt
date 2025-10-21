@@ -1,0 +1,23 @@
+# Testando o MarkDown
+
+Isso é apenas um teste de MarkDown, olha o LINNNNNNNNNNNNNNNNNNK
+[LINK](https://www.adultswim.com/etcetera/elastic-man/app.html)
+
+## lista de olas 
+
+- ola
+- oi
+- eai
+
+```linha de codigo```
+
+## criando tabela
+
+| produto | preço |
+| ------- | ----- |
+| banana | 10R$ |
+| maçã | 5R$  |
+
+tudo caro >:(
+._.
+
