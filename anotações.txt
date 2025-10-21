@@ -43,6 +43,12 @@ git pull = pega oque esta no repositorio do github e tras para a maquina
 
 AULA DAS BRANCHS
 
+git checkout -b (nome da brench) = cria uma nova brench
+git checkout (nome da branch) = vai pra branch com o nome especifico
+git branch -v = mostra todas as branchs
+git merge (nome da branch) = mescla uma branch com outra
+git branch -d (nome da branch) = deleta a branch
+
 
 
 
